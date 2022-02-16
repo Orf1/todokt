@@ -14,6 +14,7 @@ repositories {
 
 dependencies {
     implementation("dev.kord:kord-core:0.8.0-M9")
+    implementation("redis.clients:jedis:4.1.1")
     testImplementation(kotlin("test"))
 }
 
