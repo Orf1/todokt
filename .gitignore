@@ -1,0 +1,7 @@
+/.idea/
+*.iml
+*.iws
+rebel.xml
+/.gradle/
+/build/
+/uploads/
